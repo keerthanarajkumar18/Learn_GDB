@@ -1,4 +1,4 @@
-# GDB Assignment – Calculator # GDB Assignment Calculator and Expression Processing
+# GDB Assignment Calculator and Expression Processing
 
 ## Overview
 
