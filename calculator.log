@@ -1,0 +1,38 @@
+Operation: 10 + 5
+Addition selected
+Result: 15
+Operation: 10 * 5
+Multiplication selected
+Result: 50
+Operation: 10 - 5
+Subtraction selected
+Result: 5
+Operation: 10 / 5
+Division selected
+Result: 2
+Operation: 10 / 0
+Division selected
+ERROR: Division by zero
+Result: 0
+Result: 5
+Operation: 10 + 7
+Addition selected
+Operation: 10 + 9
+Addition selected
+Result: 19
+Operation: 10 + 5
+Addition selected
+Result: 15
+Operation: 10 / 0
+Division selected
+ERROR: Division by zero
+Result: 0
+Operation: 0 / 10
+Division selected
+Result: 0
+Operation: 10 * 5
+Multiplication selected
+Result: 15
+Operation: 10 * 5
+Multiplication selected
+Result: 50
