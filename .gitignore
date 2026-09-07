@@ -1,3 +1,4 @@
+.gitignore 
 .vs/
 *.o
 *.obj
@@ -6,4 +7,3 @@
 calculator
 calculate_debug
 calculator_release 
-.gitignore 
