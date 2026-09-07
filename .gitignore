@@ -1,0 +1,9 @@
+.vs/
+*.o
+*.obj
+*.dSYM
+*.gdb
+calculator
+calculate_debug
+calculator_release 
+.gitignore 
